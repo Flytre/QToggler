@@ -3,7 +3,7 @@
 
 **What is QustodioToggler?**
 
-QustodioToggler is a Mac app which allows you to toggle the Qustodio parental controls on and off at will 
+QustodioToggler is a Mac app which allows you to toggle the Qustodio parental controls on your mac on and off at will! 
 
 
 **What do I need to use QustodioToggler?**
