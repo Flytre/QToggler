@@ -15,6 +15,6 @@ on a mac, and there are plenty of online tutorials on how to do that.
 
 **How do I get started?**
 
-Download here:
+Download here: https://github.com/Flytre/QToggler/releases/tag/1.0
 
 Install the app like any other app, then run it!
