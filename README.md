@@ -8,9 +8,7 @@ QustodioToggler is a Mac app which allows you to toggle the Qustodio parental co
 
 **What do I need to use QustodioToggler?**
 
-QustodioToggler requires admin to run. (Normally, even with admin you cannot start/stop Qustodio!) It is possible to force admin 
-
-on a mac, and there are plenty of online tutorials on how to do that.
+QustodioToggler requires admin to run. (Normally, even with admin you cannot start/stop Qustodio!) It is possible to force admin on a mac, and there are plenty of online tutorials on how to do that.
 
 
 **How do I get started?**
