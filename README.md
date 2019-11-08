@@ -13,6 +13,8 @@ QustodioToggler requires admin to run. (Normally, even with admin you cannot sta
 
 **How do I get started?**
 
-Download here: https://github.com/Flytre/QToggler/releases/tag/1.0
+1. Download here: https://github.com/Flytre/QToggler/releases/tag/1.0
 
-Install the app like any other app, then run it!
+2. Unzip the download
+
+3. Double click the app to run it
